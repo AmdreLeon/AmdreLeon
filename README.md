@@ -1,10 +1,15 @@
 ### Hi there 👋
 
 Hello, my name is Andres Leon 
+
 I am a computer science student 💻 at the University of Havana 🇨🇺.
+
 My Passions are videogames 🎮, programming 🖥️ and photography 📷. 
+
 My favorite language is Python 🐍, although I really like C# a lot 💙. 
+
 I am a Linux enthusiast and a terminal fanatic.
+
 The field of artificial intelligence awakens me a lot of interest, especially on the philosophical plane and I hope to work on it in the future.
 
 
