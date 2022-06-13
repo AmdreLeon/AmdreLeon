@@ -10,9 +10,13 @@ My favorite language is Python 🐍, although I really like C# a lot 💙.
 
 I am a Linux enthusiast and a terminal fanatic.
 
-The field of artificial intelligence awakens me a lot of interest, especially on the philosophical plane and I hope to work on it in the future.
+The field of artificial intelligence awakens me a lot of interest, especially on the philosophical approach and I hope to work on it in the future.
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bash,linux,py,cs,vim" />
+  </a>
+</p>
 
 <!--
 **AmdreLeon/AmdreLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
