@@ -31,4 +31,6 @@ The field of artificial intelligence awakens me a lot of interest, especially on
 - ⚡ Fun fact: ...
 -->
 
-<a align="center" target="_blank" href="https://monkeytype.com/profile/amdre.leon"><img src="https://github.com/monkeytypegame/monkeytype/raw/master/frontend/static/images/githubbanner2.png?raw=true" alt="Monkeytype banners" /></a>
+<p align="center">
+<a target="_blank" href="https://monkeytype.com/profile/amdre.leon"><img src="https://github.com/monkeytypegame/monkeytype/raw/master/frontend/static/images/githubbanner2.png?raw=true" alt="Monkeytype banners" /></a>
+</p>
